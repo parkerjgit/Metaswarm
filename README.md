@@ -2,9 +2,8 @@
 
 <!-- Custom tooling and methodology for exploring structurally performant water tight shell geometries inside polygonal planar cell boundaries and under distributed vertical load using Grasshopper + Kangaroo. -->
 
-<div style="background-color: #333">
-    <img src="README-assets/metaswarm-wireframing-10.png"/>
-</div>
+<img style="background-color: #333" src="README-assets/metaswarm-wireframing-10.png"/>
+
 
 ## Demo
 
