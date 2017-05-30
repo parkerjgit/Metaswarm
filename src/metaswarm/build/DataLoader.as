@@ -39,7 +39,7 @@
       	loader.addEventListener(ProgressEvent.PROGRESS, handleProgress);
  
 		// Load the HTML text from the example.html file
-		loader.load(new URLRequest("index7.txt"));
+		loader.load(new URLRequest("index8.txt"));
     }
 		
 	private function handleProgress(event:ProgressEvent):void 

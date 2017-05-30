@@ -1,23 +1,17 @@
-# metaswarm
+# pinUp
 
-<!-- Custom tooling and methodology for exploring structurally performant water tight shell geometries inside polygonal planar cell boundaries and under distributed vertical load using Grasshopper + Kangaroo. -->
+<img src="README-assets/metaswarm-wireframing-10.png"/>
 
-<img style="background-color: #333" src="README-assets/metaswarm-wireframing-10.png"/>
-
-
-## Demo
-
-<!-- <img src="data/n0607-01.6.jpg" width="45%"/> <img src="data/n0607-02.3.jpg" width="45%"/>
-<img src="data/gh-def-1.png" width="90%"/> -->
+Prototype for a data-driven explorer for visual presentation.  This project addresses the immediate and practical need for a presentation format better suited to meet needs of architects and visual designers, who typically come from culture of physical pinups, and are now underwhelmed and frustrated by limitations of current slide-based (powerpoint) and single-canvas (prezi) presentation formats. In contrast, pinUp encourages use of multiple canvases and multiple threads of visual narrative, and in this way it is uniquely multi-scalar and non-linear in format. The project's initial aim is to design and develop minimal working prototype, which will serve as proof of concept and test bed for subsequent develop cycles. The ultimate goal of this project is the development of a web-based client that will allow users to quickly build interactive mixed-media narrative experiences for presentation and exhibition of mostly visual content.
 
 ## Getting Started
 
 ### Dependancies
 
-<!-- Grasshopper definitions and python scrips requires the following rhino/gh plugins to work: -->
+pinUp requires the following AS3 libraries:
 
 ```
-
+GreenSock Animation Platform (GSAP)
 ```
 
 ### How to use tool
@@ -35,6 +29,12 @@
 **Joshua Parker** - [parkerjgit.github.io](http://parkerjgit.github.io/)
 
 See full list of [contributors](https://github.com/your/project/contributors) who participated in this project. *Currently no contributors*
+
+## Built with
+
+```
+Actionscript3
+```
 
 ## Acknowledgments
 
