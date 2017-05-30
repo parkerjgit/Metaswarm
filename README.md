@@ -36,6 +36,10 @@ See full list of [contributors](https://github.com/your/project/contributors) wh
 Actionscript3
 ```
 
+## License
+
+This project is licensed under the MIT License - see the License.txt file for details
+
 ## Acknowledgments
 
 <!-- Definitions and scripts developed in the context of a project with [OPEN Architecture](www.openarch.com), currently under construction. Images copyright (c) 2016 OPEN Architecture. -->
